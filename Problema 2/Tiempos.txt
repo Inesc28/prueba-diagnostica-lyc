@@ -1,0 +1,2 @@
+Tiempo de ejecucion: 979 microsegundos (C++)
+Tiempo de ejecucion: 0.001424 segundos (Python)

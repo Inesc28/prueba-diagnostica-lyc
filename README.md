@@ -1,3 +1,4 @@
+# https://youtu.be/gRDYgRb3NbQ?si=iBalsM6UxirQRuSq / VIDEO DEFENSA
 # Guía de Instalación y Ejecución de Ejercicios
 
 Este documento describe los componentes y pasos necesarios para compilar y ejecutar los ejercicios desarrollados en Windows, Linux y macOS.
